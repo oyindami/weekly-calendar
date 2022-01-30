@@ -35,7 +35,7 @@ https://watch.screencastify.com/v/6aJjPtAIC5sKjRVcuEDU
 ## Links
 
 [githublink](https://github.com/oyindami/weekly-calendar)
-[deployed-site]()
+[deployed-site](https://oyindami.github.io/weekly-calendar/)
 
 
 ## Contact me
