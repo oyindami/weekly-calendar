@@ -37,6 +37,10 @@ https://watch.screencastify.com/v/6aJjPtAIC5sKjRVcuEDU
 [githublink](https://github.com/oyindami/weekly-calendar)
 [deployed-site](https://oyindami.github.io/weekly-calendar/)
 
+## Soures used
+
+JQuery Doc- https://api.jquery.com/ BootStrap Doc - https://getbootstrap.com/docs/5.1/getting-started/introduction/ Moment Doc - https://momentjs.com/docs/ Localstorage Doc - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
 
 ## Contact me
 
