@@ -1,6 +1,6 @@
 ## weekly-calendar-quiz
 
-This Assignment is to create a working quiz site using javascript.
+This Assignment is to create a daily calendar for me to input my to-do's for the day.
 
 ## User story
 
