@@ -1,4 +1,4 @@
-## weekly-calendar-quiz
+## Weekly-calendar-quiz
 
 This Assignment is to create a daily calendar for me to input my to-do's for the day.
 
